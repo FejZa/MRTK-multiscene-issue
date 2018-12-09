@@ -1,9 +1,9 @@
-[Ll]ibrary/
-[Tt]emp/
-[Oo]bj/
-[Bb]uild/
-[Bb]uilds/
-Assets/AssetStoreTools*
+MRTKMultiScene/[Ll]ibrary/
+MRTKMultiScene/[Tt]emp/
+MRTKMultiScene/[Oo]bj/
+MRTKMultiScene/[Bb]uild/
+MRTKMultiScene/[Bb]uilds/
+MRTKMultiScene/Assets/AssetStoreTools*
 
 # Visual Studio cache directory
 .vs/
